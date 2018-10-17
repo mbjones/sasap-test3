@@ -9,3 +9,5 @@ These changes were made on GitHub.
 These changes were made in RStudio.
 
 ## Jeanette's Change
+
+Jeanette Changed line 13
