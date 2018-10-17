@@ -7,7 +7,7 @@ Matt Changed line 6
 
 ## Heading 3
 
-These changes were made in RStudio.
+These changes were made in RStudio.  Matt was first.
 
 ## Jeanette's Change
 
